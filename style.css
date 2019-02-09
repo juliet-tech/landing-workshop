@@ -1,0 +1,79 @@
+body{
+  background-color: rgb(230,230,230);
+  color: black;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+  font-size: 30px;
+  font-family: Courier;
+  color: #df0e62;
+  letter-spacing: 2px;
+  font-family: 'Major Mono Display', monospace;
+}
+
+h3{
+  font-size: 26px;
+  font-family: 'Major Mono Display', monospace;
+
+}
+
+p{
+  font-size: 23px;
+  margin: 0;
+}
+
+a{
+  color: #df0e62;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #1c819e;
+  font-weight: bold
+}
+
+.intro{
+  text-align: center;
+  background-color: white;
+  border-radius: 4px;
+  padding: 30px;
+  margin: 50px;
+}
+
+.intro p{
+  margin: 10px;
+}
+
+#avatar{
+  width: 150px;
+  border-radius: 50%
+}
+
+.hobbies{
+  background-color: white;
+  padding: 50px;
+  margin: 50px;
+}
+
+.hobby{
+  text-align: center;
+  background-color: rgb(240,240,240);
+  border-radius: 4px;
+  /*width: 300px;*/
+  padding: 40px;
+  margin: 10px;
+  max-height: 275px
+}
+
+.icon{
+  width: 60%;
+}
+
+.footer{
+  background-color: white;
+  background-color: white;
+  border-radius: 4px;
+  padding: 30px;
+  margin: 30px;
+}
